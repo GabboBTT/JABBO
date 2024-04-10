@@ -369,4 +369,4 @@ Mappa::Mappa(WINDOW *win, int x, int y, int xMax, int yMax, int n)
     }
 }
 
-#endif
+#endif 

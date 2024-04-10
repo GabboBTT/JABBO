@@ -142,4 +142,4 @@ void Sparopersonaggio::insert(){  //inserisce in testa il nuovo sparo del player
     this->l = head;
 }
 
-#endif
+#endif 

@@ -266,4 +266,4 @@ int main(int argc, char *argv[]){
     }
  while (i != max);                                                  //ripete il ciclo per ricominciare il gioco senza dover far ripartire il main
  return 0;
- }
+ } 

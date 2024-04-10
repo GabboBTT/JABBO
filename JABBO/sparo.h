@@ -72,4 +72,4 @@ void Sparo::cancella(int x, int y){         //cancella il carattere dello sparo 
     wrefresh(this->win);
 }
 
-#endif
+#endif 
