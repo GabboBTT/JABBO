@@ -6,7 +6,7 @@ Ai fini di avviare il progetto è necessario aprire il file tramite il comando:
 
 cd JABBO
 
-Di seguito digitare per avviare il gioc
+Di seguito digitare per avviare il gioco
 
 ./main
 
