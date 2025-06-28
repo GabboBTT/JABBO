@@ -30,6 +30,14 @@ Per avviare il gioco:
 ./main
 ```
 
+Se da problemi con i permessi, basta lanciare
+
+```bash
+chmod +x main
+```
+
+Poi rifare `./main`
+
 Se il comando non dovesse funzionare, compilare il progetto con **make**:
 
 ```bash
