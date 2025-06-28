@@ -1,10 +1,3 @@
-Perfetto, Gabriel! Ecco il README **aggiornato** con la specifica che tutta la grafica è in ASCII art. Tutto in **un blocco unico** pronto da copiare e incollare.
-
----
-
-## ✅ README pronto da incollare
-
-````markdown
 # JABBO 🎮
 
 JABBO è un videogioco sviluppato come progetto universitario nell'ambito del corso di **Programmazione** presso l'Università di Bologna.
